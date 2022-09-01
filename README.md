@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhmdAjeer
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on backend Projects
 - 📫 How to reach me muhdajeer@gmail.com
 
 <!---
