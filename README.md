@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhmdAjeer
-- 👀 I’m interested in web development
+- 👀 I’m a Nodejs developer
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on backend Projects
 - 📫 How to reach me muhdajeer@gmail.com
