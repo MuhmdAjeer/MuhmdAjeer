@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhmdajeer&label=Profile%20views&color=0e75b6&style=flat" alt="muhmdajeer" /> </p>
 
-- 🔭 I’m currently working on **CleverHires Full stack project**
+- 🔭 I’m currently working as a **Full stack developer**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Nodejs,Mongodb and Reactjs**
+- 💬 Ask me about **Nodejs,Mongodb and Reactjs,Typecript**
 
 - 📫 How to reach me **muhdajeer@gmail.com**
 
