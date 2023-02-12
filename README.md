@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Nodejs,Mongodb and Reactjs,Typecript**
+- 💬 Ask me about **Nodejs,Mongodb and Reactjs,Typescript**
 
 - 📫 How to reach me **muhdajeer@gmail.com**
 
