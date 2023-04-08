@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Full stack developer**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **Nodejs,Mongodb and Reactjs,Typescript**
 
