@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working as a **Full stack developer**
 
-- 🌱 I’m currently learning **NestJS**
-
-- 💬 Ask me about **Nodejs,Mongodb and Reactjs,Typescript**
-
 - 📫 How to reach me **muhdajeer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
